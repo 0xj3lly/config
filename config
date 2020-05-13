@@ -1,0 +1,16 @@
+Host butflix
+    hostname butflix
+    user root
+    IdentityFile ~/.ssh/id_rsa
+Host emby 
+    hostname emby
+    user root
+    IdentityFile ~/.ssh/id_rsa
+Host docker
+    hostname docker
+    user jelly
+    IdentityFile ~/.ssh/id_rsa
+Host pi.hole
+    hostname pi.hole
+    user root
+IdentityFile ~/.ssh/id_rsa

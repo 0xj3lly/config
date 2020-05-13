@@ -1,2 +1,2 @@
 # config
-Configuration Files
+A place to store all my different configuration files
